@@ -17,7 +17,7 @@
 				setTimeout("show2()",1000)
 				}
 				window.onload=show2
-				//-->
+				
 </script>
 </span>
 &nbsp;|&nbsp;Sekarang Hari
